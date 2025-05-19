@@ -1,7 +1,7 @@
 # 🧠 Mental Health in Tech - Data Analysis Project
 This project explores mental health among tech employees using real-world survey data. It includes data preprocessing, visualizations, and statistical analysis to uncover key patterns, correlations, and workplace factors that influence mental health treatment.
 
-📁 Project Structure
+## 📁 Project Structure
 MentalHealth.ipynb — Main Jupyter Notebook for data analysis and visualizations.
 
 survey.csv — Dataset containing responses from tech employees regarding mental health.
@@ -10,7 +10,7 @@ images/ — Folder for exported visualizations (charts, graphs, heatmaps).
 
 README.md — Project overview and documentation.
 
-🔍 Objectives
+## 🔍 Objectives
 Analyze mental health trends across age groups and genders.
 
 Investigate the effect of family history on seeking treatment.
@@ -19,7 +19,7 @@ Study workplace benefits and wellness programs in relation to mental health.
 
 Use correlation heatmaps to identify influential variables.
 
-📂 Dataset
+## 📂 Dataset
 File: survey.csv
 
 Source: Kaggle - Mental Health in Tech Industry Survey
@@ -34,7 +34,7 @@ Treatment seeking behavior
 
 Employer-provided benefits (e.g., wellness programs, care options)
 
-📊 Key Insights
+## 📊 Key Insights
 1. Gender vs. Age Seeking Help
 Males are more likely to seek mental health support in the age group of 25–35.
 
@@ -54,7 +54,7 @@ Strongest relationship found between workplace wellness programs and seeking hel
 
 Weak links between actual treatment and benefits point to external blockers like stigma or fear of disclosure.
 
-🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 Python (Pandas, NumPy)
 
 Visualization: Matplotlib, Seaborn
@@ -63,7 +63,7 @@ Notebook: Jupyter
 
 Statistical Analysis: Correlation matrix, percentage plots, pie charts
 
-🚀 How to Run
+## 🚀 How to Run
 Clone the repository:
 
 bash
@@ -84,7 +84,7 @@ Edit
 jupyter notebook MentalHealth.ipynb
 Run all cells to reproduce visualizations and insights.
 
-✅ Skills Demonstrated
+## ✅ Skills Demonstrated
 Data Cleaning and Validation
 
 Exploratory Data Analysis (EDA)
@@ -95,6 +95,6 @@ Insightful Data Visualization
 
 KPI Tracking & Reporting
 
-🏁 Conclusion
+## 🏁 Conclusion
 This project reveals significant factors influencing mental health behavior in tech workplaces. It emphasizes how proactive company programs can improve employee wellbeing, while also showing gaps where awareness and access still lag.
 
