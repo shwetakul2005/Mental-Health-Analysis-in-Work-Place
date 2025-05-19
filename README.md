@@ -1,4 +1,4 @@
-#🧠 Mental Health in Tech - Data Analysis Project
+# 🧠 Mental Health in Tech - Data Analysis Project
 This project explores mental health among tech employees using real-world survey data. It includes data preprocessing, visualizations, and statistical analysis to uncover key patterns, correlations, and workplace factors that influence mental health treatment.
 
 📁 Project Structure
